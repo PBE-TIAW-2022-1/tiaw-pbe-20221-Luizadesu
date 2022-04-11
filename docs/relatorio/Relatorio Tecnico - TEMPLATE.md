@@ -9,13 +9,13 @@ Sistemas De Informação
 
 ## Participantes
 
-Arthur Gomes Murta
-Luísa Machado Antunes Santos
-Luiza Dutra Carvalho
-Marcos Filipe Dutra de Oliveira
-Riquelme Augusto de Oliveira
-Rodrigo Nogueira Duarte
-Thales Cançado Costa
+-Arthur Gomes Murta
+-Luísa Machado Antunes Santos
+-Luiza Dutra Carvalho
+-Marcos Filipe Dutra de Oliveira
+-Riquelme Augusto de Oliveira
+-Rodrigo Nogueira Duarte
+-Thales Cançado Costa
 
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
@@ -23,7 +23,6 @@ Thales Cançado Costa
 > Os membros do grupo são: 
 > - Fulano da Silva
 > - Ciclano Albuquerque
-
 
 # Estrutura do Documento
 
@@ -147,7 +146,15 @@ Foi constatado por meio de entrevistas que quem faria mais uso de tal ferramenta
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nossa persona será o Sergio, um professor de matématica, de 45 anos, negro, que irá ajudar as pessoas, tanto alunos do ensino médio e pré enem e pessoas que precisarem realizar alguma conversão, a realizar as conversões desejadas, e guia-lás pelo site, ensinando a usa-lo e a como converter as unidades desejadas. A aparência de nossa persona será como a imagem do Wireframe.
+
+-Arthur Gomes Murta
+-Luísa Machado Antunes Santos
+-Luiza Dutra Carvalho
+-Marcos Filipe Dutra de Oliveira
+-Riquelme Augusto de Oliveira
+-Rodrigo Nogueira Duarte
+-Thales Cançado Costa
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
@@ -243,6 +250,20 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
 
+Restrições do projeto:
+1- Atualização em tempo real do valor das moedas pelo mundo;
+2- Servidor que suporte um grande número de usuários;
+3- Entrega do Google no topo do resultado das pesquisas;
+4- Segurança de dados de todos os usuários;
+5- Produção de tutorias e inserção na plataforma para todas as
+conversões;
+6- Custos envolvidos;
+7- Escopo do projeto;
+8- Prazo acelerado que pode impactar nas entregas;
+9- Opiniões divergentes da equipe;
+10- Disponibilização de todas as ferramentas necessárias;
+11- Complexidade do algoritmo capaz de suprir as expectativas.
+
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
 > geralmente limitam a solução candidata.
@@ -263,7 +284,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
+Um arquivo foi adicionado na pasta com o nome Pdl_Converta_User_Flow.pdf com o fluxo de usúario feito pelo grupo.
 
 > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
 > mapear todo fluxo de telas do site ou app. Essa técnica funciona
@@ -282,7 +303,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-Nossas ilustrações dos wireframes estão disponíveis na documentação do projeto.
+Nossas ilustrações dos wireframes estão disponíveis em um arquivo dessa pasta Wireframe-converta.
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
@@ -302,7 +323,8 @@ Nossas ilustrações dos wireframes estão disponíveis na documentação do pro
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Fizemos nosso controle de tarefas pelo Trello, em que as tarefas vinculadas a algum membro do grupo específico foram indicadas no quadro. As tarefas sem pessoas específicas foram divididas para que depois fosse tudo inserido em uma única pasta. 
+Link do site de design thinking https://trello.com/b/8AygzjUA/tutorial-trello
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
@@ -342,7 +364,12 @@ Riquelme Oliveira(Designer)
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+| Ambiente  | Plataforma              |Link de Acesso |
+|-----------|-------------------------|---------------|
+|Processo de Design Thinkgin  | Trello |  https://trello.com/b/PSC1p3Gf/controle-de-tarefas | 
+|Repositório de código | GitHub | https://github.com/XXXXXXX | 
+|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
+|Protótipo Interativo | Figma |  | 
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
