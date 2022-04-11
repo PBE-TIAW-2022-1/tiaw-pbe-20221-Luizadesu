@@ -1,21 +1,29 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Conversor de Unidades
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Sistemas De Informação
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Arthur Gomes Murta
+Luísa Machado Antunes Santos
+Luiza Dutra Carvalho
+Marcos Filipe Dutra de Oliveira
+Riquelme Augusto de Oliveira
+Rodrigo Nogueira Duarte
+Thales Cançado Costa
+
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
 > Os membros do grupo são: 
 > - Fulano da Silva
 > - Ciclano Albuquerque
+
 
 # Estrutura do Documento
 
@@ -56,7 +64,8 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ausência de plataformas online populares de conversão e ensino do mesmo no mercado, apesar da grande demanda da sociedade imersa no mundo virtual (principalmente estudantes), existindo então a necessidade da criação de tal ferramenta em forma de um site intuitivo principalmente para estudantes.
+
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -76,7 +85,7 @@
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ofertar ao público uma plataforma online, fácil e eficiente de conversão de diversas medidas e uma função de “faça você mesmo”, dando além da informação direta que o usuário deseja, a opção também de entender a conversão e aprender a fazê-la.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -89,7 +98,7 @@
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Constatação por meio de entrevistas da necessidade de uma plataforma online e popular que converte valores e ensine seus usuários a fazerem sozinhos de uma forma eficiente e rápida, surgindo então a criação de um sistema que satisfaça tal anseio.
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -105,7 +114,7 @@
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Foi constatado por meio de entrevistas que quem faria mais uso de tal ferramenta seriam estudantes, do ensino médio e pré enem, e pessoas com dúvidas no cotidiano, e que essas pessoas em suma preferem conteúdo de ensino em formato de vídeos curtos e diretos, logo a plataforma Converta é focada nesse público.
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
@@ -124,7 +133,13 @@
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+1- Deve converter medidas corretamente
+2-Ser capaz de identificar possíveis erros de digitação do usuário e sugerir uma correção
+3-Exibir uma página com o resultado e tutorial após a solicitação do usuário
+4-O personagem interativo Sérgio deve seguir um script dentro do contexto
+5-Precisa ter as fórmulas de conversão dentro dos dados
+6-Deve exibir o layout do site de acordo com o planejado
+7-Armazenar os dados de logins de cada usuário, para manter o histórico de buscas
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
@@ -162,7 +177,7 @@
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO... `Professor de matématica`| QUERO/PRECISO ... `Realizar as conversões e ensinar os úsuarios a realizalás` |PARA ... `Mostrar os resultados e ensinar as pessoas a faze-las sozinha no futuro`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
@@ -267,7 +282,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+Nossas ilustrações dos wireframes estão disponíveis na documentação do projeto.
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
@@ -307,7 +322,16 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A equipe foi organizada assim:
+Projeto: Conversor de Medidas
+Scrum Master: Leonardo Vilela Cardoso
+Equipe de Desenvolvimento:
+Thales Cançado e Henrique (Desenvolvedor Front End)
+Arthur e Marcos Filipe (Desenvolvedor Back End)
+Luisa Machado e Luiza (Analista de Negócios)
+Rodrigo Duarte (Desenvolvedor Front End)
+Riquelme Oliveira(Designer)
+
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
@@ -465,7 +489,16 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+https://mestresdaweb.com.br/fabrica-de-software/requisitos-funcionais-e-nao-funcionais-o-que-sao/#:~:text=Os%20requisitos%20n%C3%A3o%20funcionais%20s%C3%A3o,funcionais%20descrevem%20como%20ser%C3%A3o%20feitos  Acesso em: 09 abr. 2022.
+
+https://www.atlassian.com/br/agile/project-management/user-stories  Acesso em: 09 abr. 2022.
+
+VIDDIA. Como construir um mapa de empatia? 2018. Disponível em: https://viddia.com.br/como-construir-mapa-de-empatia/. Acesso em: 07 abr. 2022.
+
+Guia do Scrum™ - Um guia definitivo para o Scrum: As regras do jogo - Desenvolvido e mantido por Ken Schwaber e Jeff Sutherland
+
+Timezone-picker - Mapa interativo. Disponível em: dosx/timezone-picker: A Google Maps (or OpenLayers) + Olson Time Zones mashup to do a timezone picker (github.com) . Acesso em: 09 abr. 2022.
+
 
 > Inclua todas as referências (livros, artigos, sites, etc) utilizados
 > no desenvolvimento do trabalho.
