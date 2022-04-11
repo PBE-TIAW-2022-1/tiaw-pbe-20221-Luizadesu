@@ -148,13 +148,11 @@ Foi constatado por meio de entrevistas que quem faria mais uso de tal ferramenta
 
 Nossa persona será o Sergio, um professor de matématica, de 45 anos, negro, que irá ajudar as pessoas, tanto alunos do ensino médio e pré enem e pessoas que precisarem realizar alguma conversão, a realizar as conversões desejadas, e guia-lás pelo site, ensinando a usa-lo e a como converter as unidades desejadas. A aparência de nossa persona será como a imagem do Wireframe.
 
--Arthur Gomes Murta
--Luísa Machado Antunes Santos
--Luiza Dutra Carvalho
--Marcos Filipe Dutra de Oliveira
--Riquelme Augusto de Oliveira
--Rodrigo Nogueira Duarte
--Thales Cançado Costa
+Thales Cançado e Henrique (Desenvolvedor Front End) 
+Arthur e Marcos Filipe (Desenvolvedor Back End) 
+Luisa Machado e Luiza (Analista de Negócios) 
+Rodrigo Duarte (Desenvolvedor Front End) 
+Riquelme Oliveira (Designer)
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
@@ -219,6 +217,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
+
+
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
 >
@@ -275,7 +275,8 @@ conversões;
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+Nossas interfaces foram elaboradas de forma simples, para que fosse acessivel a todos os usúarios, para que ele possa navegar rapidamente em todo o site. Todas os botões são intuitivos, quando o usuário clica em um botão, rapidamente é direcionado para a página desejada. Nosso fluxo de interface está disponível também nessa pasta para acesso. Aqui: 
+Wireframe-converta
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
@@ -303,7 +304,7 @@ Um arquivo foi adicionado na pasta com o nome Pdl_Converta_User_Flow.pdf com o f
 
 ## Wireframes
 
-Nossas ilustrações dos wireframes estão disponíveis em um arquivo dessa pasta Wireframe-converta.
+Nossas ilustrações dos wireframes estão disponíveis em um arquivo dessa pasta aqui: Wireframe-converta.
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
