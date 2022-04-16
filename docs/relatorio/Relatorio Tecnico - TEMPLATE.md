@@ -63,7 +63,7 @@ Sistemas De Informação
 
 ## Problema
 
-Ausência de plataformas online populares de conversão e ensino do mesmo no mercado, apesar da grande demanda da sociedade imersa no mundo virtual (principalmente estudantes), existindo então a necessidade da criação de tal ferramenta em forma de um site intuitivo principalmente para estudantes.
+Ausência de plataformas online populares de conversão e ensino do mesmo no mercado, que apesar da grande demanda da sociedade imersa no mundo virtual (principalmente estudantes), existindo então a necessidade da criação de tal ferramenta em forma de um site intuitivo principalmente para estudantes. 
 
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
@@ -115,6 +115,14 @@ Constatação por meio de entrevistas da necessidade de uma plataforma online e 
 
 Foi constatado por meio de entrevistas que quem faria mais uso de tal ferramenta seriam estudantes, do ensino médio e pré enem, e pessoas com dúvidas no cotidiano, e que essas pessoas em suma preferem conteúdo de ensino em formato de vídeos curtos e diretos, logo a plataforma Converta é focada nesse público.
 
+gênero:
+faixa etária:
+escolaridade:
+renda:
+classe social:
+localização:
+hábitos de consumo:
+
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
 > clientes ou quais serão os papéis dos usuários na aplicação. A ideia
@@ -153,6 +161,14 @@ Arthur e Marcos Filipe (Desenvolvedor Back End)
 Luisa Machado e Luiza (Analista de Negócios) 
 Rodrigo Duarte (Desenvolvedor Front End) 
 Riquelme Oliveira (Designer)
+
+No que trabalha:
+Qual seu lazer preferido:
+O que faz nas horas livres:
+Onde costuma comprar:
+Quais são as suas redes sociais preferidas:
+Que tipo de conteúdo consome na internet:
+Quais blogs e sites visita:
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
