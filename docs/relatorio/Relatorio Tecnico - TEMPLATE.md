@@ -9,13 +9,13 @@ Sistemas De Informação
 
 ## Participantes
 
--Arthur Gomes Murta
--Luísa Machado Antunes Santos
--Luiza Dutra Carvalho
--Marcos Filipe Dutra de Oliveira
--Riquelme Augusto de Oliveira
--Rodrigo Nogueira Duarte
--Thales Cançado Costa
+> Arthur Gomes Murta
+> Luísa Machado Antunes Santos
+> Luiza Dutra Carvalho
+> Marcos Filipe Dutra de Oliveira
+> Riquelme Augusto de Oliveira
+> Rodrigo Nogueira Duarte
+> Thales Cançado Costa
 
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
@@ -63,8 +63,7 @@ Sistemas De Informação
 
 ## Problema
 
-Ausência de plataformas online populares de conversão e ensino do mesmo no mercado, que apesar da grande demanda da sociedade imersa no mundo virtual (principalmente estudantes), existindo então a necessidade da criação de tal ferramenta em forma de um site intuitivo principalmente para estudantes. 
-
+Em nosso Design Thinking, realizamos o mapeamento da persona e do público alvo, o que nos auxiliou com nosso projeto. Procuramos resolver o problema dos estudantes, principalmente, em relação a ausência de plataformas online populares de conversão e ensino do mesmo no mercado, já que muitas vezes eles precisam visitar diversos sites para conseguir realizar diferentes conversões. Além disso, também nos focamos em melhorar a forma de ensino atual, para que seja mais objetiva e acolhedora, usando de videos curtos e objetivos, motivando o usuário a colocar em prática o conteúdo, já que atualmente as plataformas existentes não se preocupam em ensinar e motivar o estudante a aprender. 
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -84,7 +83,7 @@ Ausência de plataformas online populares de conversão e ensino do mesmo no mer
 
 ## Objetivos
 
-Ofertar ao público uma plataforma online, fácil e eficiente de conversão de diversas medidas e uma função de “faça você mesmo”, dando além da informação direta que o usuário deseja, a opção também de entender a conversão e aprender a fazê-la.
+A finalidade do nosso trabalho é ofertar ao público uma plataforma online, de fácil utilização e eficiente de conversão de diversas medidas, e que conte com uma função de “faça você mesmo”, como um tutorial, dando além da informação direta que o usuário deseja, a opção também de entender a conversão e aprender a fazê-la. Com isso, aprofundaremos nossa prática em proporcinar ao usuário diversas conversões em uma página da internet com video aulas disponíveis, para que eles possam aprender  e aprofundar seu conhecimento no assunto desejado.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -97,7 +96,7 @@ Ofertar ao público uma plataforma online, fácil e eficiente de conversão de d
 
 ## Justificativa
 
-Constatação por meio de entrevistas da necessidade de uma plataforma online e popular que converte valores e ensine seus usuários a fazerem sozinhos de uma forma eficiente e rápida, surgindo então a criação de um sistema que satisfaça tal anseio.
+Por meio de entrevistas realizadas, nosso trabalho foi incentivado pela necessidade dos estudantes, em geral, de realizar conversões de diversas grandezas, e que possa ofertar em uma única plataforma, essas necessidades. Mas, mais que isso, possa proporcionar formas do estudante aprender a realizá-las, através de video aulas curtas e objetivas, que possam despertar a vontade de aprender e a utilizar as conversões no dia a dia. Nossa plataforma também se destina a pessoas que possam estar interesadas ou com alguma dúvida em relação a realização de conversões.
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -113,15 +112,15 @@ Constatação por meio de entrevistas da necessidade de uma plataforma online e 
 
 ## Público-Alvo
 
-Foi constatado por meio de entrevistas que quem faria mais uso de tal ferramenta seriam estudantes, do ensino médio e pré enem, e pessoas com dúvidas no cotidiano, e que essas pessoas em suma preferem conteúdo de ensino em formato de vídeos curtos e diretos, logo a plataforma Converta é focada nesse público.
+Com a realização das entrevistas, foi constatado que quem faria mais uso de tal ferramenta de conversão, seriam estudantes, e pessoas com dúvidas no cotidiano, e que essas pessoas, em suma preferem conteúdo de ensino em formato de vídeos curtos e diretos, objetivos, logo a plataforma Converta é focada nesse público.
 
-gênero:
-faixa etária:
-escolaridade:
-renda:
-classe social:
-localização:
-hábitos de consumo:
+Gênero: masculino e feminino
+Faixa etária: entre 12 e 24 anos, principalmente
+Escolaridade: ensino fundamental, médio e graduando
+Renda: entre 1 e 6 salários mínimos
+Classe social: classe baixa e média
+Localização: Brasil
+Hábitos de consumo: médio e elevado
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
@@ -138,7 +137,7 @@ hábitos de consumo:
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
-# Especificações do Projeto
+# Especificações do Projeto  ...............
 
 1- Deve converter medidas corretamente
 2-Ser capaz de identificar possíveis erros de digitação do usuário e sugerir uma correção
@@ -154,21 +153,23 @@ hábitos de consumo:
 
 ## Personas e Mapas de Empatia
 
-Nossa persona será o Sergio, um professor de matématica, de 45 anos, negro, que irá ajudar as pessoas, tanto alunos do ensino médio e pré enem e pessoas que precisarem realizar alguma conversão, a realizar as conversões desejadas, e guia-lás pelo site, ensinando a usa-lo e a como converter as unidades desejadas. A aparência de nossa persona será como a imagem do Wireframe.
+Nossa persona será o Sergio, um professor de matématica, de 35 anos, negro, que irá ajudar os usuários, alunos e pessoas que precisarem realizar alguma conversão, a realizar as conversões desejadas, e guia-lás pelo site, ensinando a usa-lo e a como converter as unidades desejadas. A aparência de nossa persona será como a imagem do Wireframe. Abaixo realizamos uma série de perguntas para mapearmos nossa persona: 
+
+No que trabalha: é professor
+Qual seu lazer preferido: ler livros e jogar xadrez
+O que faz nas horas livres: assiste documentários e estuda matemática e conversões
+Onde costuma comprar: livrarias
+Quais são as suas redes sociais preferidas: instagram e twitter
+Que tipo de conteúdo consome na internet: conteúdos relacionados a exatas e comunicação
+Quais blogs e sites visita: globo notícias e scientific american
+Objetivo: ajudar os estudantes a realizar as conversões de maneira rápida e objetiva
+Dificuldades: oferecer a todos os estudantes e interesados, uma educação de qualidade e objetiva que possa aproximar o estudante e despertar o desejo em aprender
 
 Thales Cançado e Henrique (Desenvolvedor Front End) 
 Arthur e Marcos Filipe (Desenvolvedor Back End) 
 Luisa Machado e Luiza (Analista de Negócios) 
 Rodrigo Duarte (Desenvolvedor Front End) 
 Riquelme Oliveira (Designer)
-
-No que trabalha:
-Qual seu lazer preferido:
-O que faz nas horas livres:
-Onde costuma comprar:
-Quais são as suas redes sociais preferidas:
-Que tipo de conteúdo consome na internet:
-Quais blogs e sites visita:
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
@@ -194,7 +195,7 @@ Quais blogs e sites visita:
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
 
-## Histórias de Usuários
+## Histórias de Usuários .
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
@@ -214,7 +215,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
-## Requisitos
+## Requisitos .
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
@@ -225,6 +226,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
+..................................................
+
+1- Deve converter medidas corretamente
+2-Ser capaz de identificar possíveis erros de digitação do usuário e sugerir uma correção
+3-Exibir uma página com o resultado e tutorial após a solicitação do usuário
+4-O personagem interativo Sérgio deve seguir um script dentro do contexto
+5-Precisa ter as fórmulas de conversão dentro dos dados
+6-Deve exibir o layout do site de acordo com o planejado
+7-Armazenar os dados de logins de cada usuário, para manter o histórico de buscas
+
 
 ### Requisitos não Funcionais
 
@@ -232,7 +243,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+...............................................
 
+1- Deve ser um sistema de confiablidade que preserve o usuário de quaisquer danos
+2-Precisa estar disponível na rede a qualquer momento para alcançar máximo de pessoas
+3- Deve ser um sistema ágil que atenda com rapidez a necessidade do usuário
+4- Deve ser uma plataforma de fácil uso do usuário
+5- Precisa ter o desempenho esperado
+6- Precisa ter segurança de dados como nome, endereço de e-mail e dados de pagamento de contas pró
 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
@@ -291,8 +309,7 @@ conversões;
 
 # Projeto de Interface
 
-Nossas interfaces foram elaboradas de forma simples, para que fosse acessivel a todos os usúarios, para que ele possa navegar rapidamente em todo o site. Todas os botões são intuitivos, quando o usuário clica em um botão, rapidamente é direcionado para a página desejada. Nosso fluxo de interface está disponível também nessa pasta para acesso. Aqui: 
-Wireframe-converta
+Nossas interfaces foram elaboradas de forma simples, para que fosse acessivel a todos os usúarios, para que ele possa navegar rapidamente em todo o site, e que contasse com a ajuda de nossa persona, Sérgio. Todas os botões são intuitivos, quando o usuário clica em um botão, rapidamente é direcionado para a página desejada. Tudo foi planejado e elaborado de acordo com nosso wireframe.
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
