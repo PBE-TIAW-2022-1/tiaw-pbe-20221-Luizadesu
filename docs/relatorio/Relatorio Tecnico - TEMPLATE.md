@@ -9,13 +9,13 @@ Sistemas De Informação
 
 ## Participantes
 
-> Arthur Gomes Murta
-> Luísa Machado Antunes Santos
-> Luiza Dutra Carvalho
-> Marcos Filipe Dutra de Oliveira
-> Riquelme Augusto de Oliveira
-> Rodrigo Nogueira Duarte
-> Thales Cançado Costa
+_ Arthur Gomes Murta
+_ Luísa Machado Antunes Santos
+_ Luiza Dutra Carvalho
+_ Marcos Filipe Dutra de Oliveira
+_ Riquelme Augusto de Oliveira
+_ Rodrigo Nogueira Duarte
+_ Thales Cançado Costa
 
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
@@ -137,7 +137,7 @@ Hábitos de consumo: médio e elevado
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
-# Especificações do Projeto  ...............
+# Especificações do Projeto 
 
 1- Deve converter medidas corretamente
 2-Ser capaz de identificar possíveis erros de digitação do usuário e sugerir uma correção
@@ -309,7 +309,7 @@ conversões;
 
 # Projeto de Interface
 
-Nossas interfaces foram elaboradas de forma simples, para que fosse acessivel a todos os usúarios, para que ele possa navegar rapidamente em todo o site, e que contasse com a ajuda de nossa persona, Sérgio. Todas os botões são intuitivos, quando o usuário clica em um botão, rapidamente é direcionado para a página desejada. Tudo foi planejado e elaborado de acordo com nosso wireframe.
+Nossas interfaces foram elaboradas para que fosse de forma simples, e acessivel a todos os usúarios, para que ele possa navegar rapidamente em todo o site, e que contasse com a ajuda de nossa persona, Sérgio. Todas os botões são intuitivos, quando o usuário clica em um botão, rapidamente é direcionado para a página desejada, como as páginas de conversões e outra página de tuturiais. Tudo foi planejado e elaborado de acordo com nosso wireframe e nosso user flow.
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
@@ -318,7 +318,7 @@ Nossas interfaces foram elaboradas de forma simples, para que fosse acessivel a 
 
 ## User Flow
 
-Um arquivo foi adicionado na pasta com o nome Pdl_Converta_User_Flow.pdf com o fluxo de usúario feito pelo grupo.
+Nosso user flow foi feito para que fosse intuitivo e simples para o usuário. Primeiramente o cliente terá acesso a página inicial, que contém todas as conversões oferecidas pelo site, logo, dependendo do botão acionado, ele será redirecionado para uma página de video aulas, da conversão desejada ou de ajuda. Além disso, ele também pode realizar o cadastro no site, e se logar sempre que desejado.
 
 > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
 > mapear todo fluxo de telas do site ou app. Essa técnica funciona
@@ -337,7 +337,7 @@ Um arquivo foi adicionado na pasta com o nome Pdl_Converta_User_Flow.pdf com o f
 
 ## Wireframes
 
-Nossas ilustrações dos wireframes estão disponíveis em um arquivo dessa pasta aqui: Wireframe-converta.
+Em nosso wireframe, configuramos a página de modo minimalista, para que fosse o mais intuitivo para o usuário. Também teremos nossa persona, Sérgio, para guiá-los pelo site
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
@@ -358,7 +358,8 @@ Nossas ilustrações dos wireframes estão disponíveis em um arquivo dessa past
 # Metodologia
 
 Fizemos nosso controle de tarefas pelo Trello, em que as tarefas vinculadas a algum membro do grupo específico foram indicadas no quadro. As tarefas sem pessoas específicas foram divididas para que depois fosse tudo inserido em uma única pasta. 
-Link do site de design thinking https://trello.com/b/8AygzjUA/tutorial-trello
+Link do site de design thinking 
+https://trello.com/b/8AygzjUA/tutorial-trello
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
