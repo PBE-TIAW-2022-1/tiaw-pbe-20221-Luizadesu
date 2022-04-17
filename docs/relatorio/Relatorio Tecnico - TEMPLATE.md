@@ -9,13 +9,13 @@ Sistemas De Informação
 
 ## Participantes
 
-_ Arthur Gomes Murta
-_ Luísa Machado Antunes Santos
-_ Luiza Dutra Carvalho
-_ Marcos Filipe Dutra de Oliveira
-_ Riquelme Augusto de Oliveira
-_ Rodrigo Nogueira Duarte
-_ Thales Cançado Costa
+> - Arthur Gomes Murta
+> - Luísa Machado Antunes Santos
+> - Luiza Dutra Carvalho
+> - Marcos Filipe Dutra de Oliveira
+> - Riquelme Augusto de Oliveira
+> - Rodrigo Nogueira Duarte
+> - Thales Cançado Costa
 
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
@@ -114,13 +114,13 @@ Por meio de entrevistas realizadas, nosso trabalho foi incentivado pela necessid
 
 Com a realização das entrevistas, foi constatado que quem faria mais uso de tal ferramenta de conversão, seriam estudantes, e pessoas com dúvidas no cotidiano, e que essas pessoas, em suma preferem conteúdo de ensino em formato de vídeos curtos e diretos, objetivos, logo a plataforma Converta é focada nesse público.
 
-Gênero: masculino e feminino
-Faixa etária: entre 12 e 24 anos, principalmente
-Escolaridade: ensino fundamental, médio e graduando
-Renda: entre 1 e 6 salários mínimos
-Classe social: classe baixa e média
-Localização: Brasil
-Hábitos de consumo: médio e elevado
+> - Gênero: masculino e feminino
+> - Faixa etária: entre 12 e 24 anos, principalmente
+> - Escolaridade: ensino fundamental, médio e graduando
+> - Renda: entre 1 e 6 salários mínimos
+> - Classe social: classe baixa e média
+> - Localização: Brasil
+> - Hábitos de consumo: médio e elevado
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
@@ -139,13 +139,13 @@ Hábitos de consumo: médio e elevado
  
 # Especificações do Projeto 
 
-1- Deve converter medidas corretamente
-2-Ser capaz de identificar possíveis erros de digitação do usuário e sugerir uma correção
-3-Exibir uma página com o resultado e tutorial após a solicitação do usuário
-4-O personagem interativo Sérgio deve seguir um script dentro do contexto
-5-Precisa ter as fórmulas de conversão dentro dos dados
-6-Deve exibir o layout do site de acordo com o planejado
-7-Armazenar os dados de logins de cada usuário, para manter o histórico de buscas
+> -1- Deve converter medidas corretamente
+> -2-Ser capaz de identificar possíveis erros de digitação do usuário e sugerir uma correção
+> -3-Exibir uma página com o resultado e tutorial após a solicitação do usuário
+> -4-O personagem interativo Sérgio deve seguir um script dentro do contexto
+> -5-Precisa ter as fórmulas de conversão dentro dos dados
+> -6-Deve exibir o layout do site de acordo com o planejado
+> -7-Armazenar os dados de logins de cada usuário, para manter o histórico de buscas
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
@@ -155,22 +155,23 @@ Hábitos de consumo: médio e elevado
 
 Nossa persona será o Sergio, um professor de matématica, de 35 anos, negro, que irá ajudar os usuários, alunos e pessoas que precisarem realizar alguma conversão, a realizar as conversões desejadas, e guia-lás pelo site, ensinando a usa-lo e a como converter as unidades desejadas. A aparência de nossa persona será como a imagem do Wireframe. Abaixo realizamos uma série de perguntas para mapearmos nossa persona: 
 
-No que trabalha: é professor
-Qual seu lazer preferido: ler livros e jogar xadrez
-O que faz nas horas livres: assiste documentários e estuda matemática e conversões
-Onde costuma comprar: livrarias
-Quais são as suas redes sociais preferidas: instagram e twitter
-Que tipo de conteúdo consome na internet: conteúdos relacionados a exatas e comunicação
-Quais blogs e sites visita: globo notícias e scientific american
-Objetivo: ajudar os estudantes a realizar as conversões de maneira rápida e objetiva
-Dificuldades: oferecer a todos os estudantes e interesados, uma educação de qualidade e objetiva que possa aproximar o estudante e despertar o desejo em aprender
+> -No que trabalha: é professor
+> -Qual seu lazer preferido: ler livros e jogar xadrez
+> -O que faz nas horas livres: assiste documentários e estuda matemática e conversões
+> -Onde costuma comprar: livrarias
+> -Quais são as suas redes sociais preferidas: instagram e twitter
+> -Que tipo de conteúdo consome na internet: conteúdos relacionados a exatas e comunicação
+> -Quais blogs e sites visita: globo notícias e scientific american
+> -Objetivo: ajudar os estudantes a realizar as conversões de maneira rápida e objetiva
+> -Dificuldades: oferecer a todos os estudantes e interesados, uma educação de qualidade e objetiva que possa aproximar o estudante e despertar o desejo em aprender
 
-Thales Cançado e Henrique (Desenvolvedor Front End) 
-Arthur e Marcos Filipe (Desenvolvedor Back End) 
-Luisa Machado e Luiza (Analista de Negócios) 
-Rodrigo Duarte (Desenvolvedor Front End) 
-Riquelme Oliveira (Designer)
+> -Thales Cançado e Henrique (Desenvolvedor Front End) 
+> -Arthur e Marcos Filipe (Desenvolvedor Back End) 
+> -Luisa Machado e Luiza (Analista de Negócios) 
+> -Rodrigo Duarte (Desenvolvedor Front End) 
+> -Riquelme Oliveira (Designer)
 
+![Persona](https://user-images.githubusercontent.com/102929829/163699693-ad78170b-31d8-443a-96dd-9cae2c36a27a.png)
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
 > você deve ser enumerar e descrever precisamente e de forma
@@ -285,18 +286,19 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| Não pode ser desenvolvido um módulo de backend        |
 
 Restrições do projeto:
-1- Atualização em tempo real do valor das moedas pelo mundo;
-2- Servidor que suporte um grande número de usuários;
-3- Entrega do Google no topo do resultado das pesquisas;
-4- Segurança de dados de todos os usuários;
-5- Produção de tutorias e inserção na plataforma para todas as
+
+> -1- Atualização em tempo real do valor das moedas pelo mundo;
+> -2- Servidor que suporte um grande número de usuários;
+> -3- Entrega do Google no topo do resultado das pesquisas;
+> -4- Segurança de dados de todos os usuários;
+> -5- Produção de tutorias e inserção na plataforma para todas as
 conversões;
-6- Custos envolvidos;
-7- Escopo do projeto;
-8- Prazo acelerado que pode impactar nas entregas;
-9- Opiniões divergentes da equipe;
-10- Disponibilização de todas as ferramentas necessárias;
-11- Complexidade do algoritmo capaz de suprir as expectativas.
+> -6- Custos envolvidos;
+> -7- Escopo do projeto;
+> -8- Prazo acelerado que pode impactar nas entregas;
+> -9- Opiniões divergentes da equipe;
+> -10- Disponibilização de todas as ferramentas necessárias;
+> -11- Complexidade do algoritmo capaz de suprir as expectativas.
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
@@ -320,6 +322,8 @@ Nossas interfaces foram elaboradas para que fosse de forma simples, e acessivel 
 
 Nosso user flow foi feito para que fosse intuitivo e simples para o usuário. Primeiramente o cliente terá acesso a página inicial, que contém todas as conversões oferecidas pelo site, logo, dependendo do botão acionado, ele será redirecionado para uma página de video aulas, da conversão desejada ou de ajuda. Além disso, ele também pode realizar o cadastro no site, e se logar sempre que desejado.
 
+[PdI_Converta_User_Flow (1).pdf](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Luizadesu/files/8500956/PdI_Converta_User_Flow.1.pdf)
+
 > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
 > mapear todo fluxo de telas do site ou app. Essa técnica funciona
 > para alinhar os caminhos e as possíveis ações que o usuário pode
@@ -337,7 +341,9 @@ Nosso user flow foi feito para que fosse intuitivo e simples para o usuário. Pr
 
 ## Wireframes
 
-Em nosso wireframe, configuramos a página de modo minimalista, para que fosse o mais intuitivo para o usuário. Também teremos nossa persona, Sérgio, para guiá-los pelo site
+Em nosso wireframe, configuramos a página de modo minimalista, para que fosse o mais intuitivo para o usuário. Também teremos nossa persona, Sérgio, para guiá-los pelo site.
+
+[Wireframe - Converta (2).pdf](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Luizadesu/files/8500954/Wireframe.-.Converta.2.pdf)
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
@@ -357,9 +363,9 @@ Em nosso wireframe, configuramos a página de modo minimalista, para que fosse o
 
 # Metodologia
 
-Fizemos nosso controle de tarefas pelo Trello, em que as tarefas vinculadas a algum membro do grupo específico foram indicadas no quadro. As tarefas sem pessoas específicas foram divididas para que depois fosse tudo inserido em uma única pasta. 
-Link do site de design thinking 
-https://trello.com/b/8AygzjUA/tutorial-trello
+Fizemos nosso controle e divisão de tarefas pelo Trello, em que as tarefas vinculadas a algum membro do grupo específico foram indicadas no quadro. As tarefas sem pessoas específicas foram divididas para que depois fosse tudo inserido em uma única pasta. Além disso, também atribuimos datas as entregas, para que tudo fosse realizado dentro do prazo.
+
+![Painel Trello](https://user-images.githubusercontent.com/102929829/163699502-45797792-eafc-47e3-8237-df9e71b63a83.png)
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
@@ -380,14 +386,14 @@ https://trello.com/b/8AygzjUA/tutorial-trello
 ## Divisão de Papéis
 
 A equipe foi organizada assim:
-Projeto: Conversor de Medidas
-Scrum Master: Leonardo Vilela Cardoso
-Equipe de Desenvolvimento:
-Thales Cançado e Henrique (Desenvolvedor Front End)
-Arthur e Marcos Filipe (Desenvolvedor Back End)
-Luisa Machado e Luiza (Analista de Negócios)
-Rodrigo Duarte (Desenvolvedor Front End)
-Riquelme Oliveira(Designer)
+> -Projeto: Conversor de Medidas
+> -Scrum Master: Leonardo Vilela Cardoso
+> -Equipe de Desenvolvimento:
+> -Thales Cançado e Henrique (Desenvolvedor Front End)
+> -Arthur e Marcos Filipe (Desenvolvedor Back End)
+> -Luisa Machado e Luiza (Analista de Negócios)
+> -Rodrigo Duarte (Desenvolvedor Front End)
+> -Riquelme Oliveira(Designer)
 
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
