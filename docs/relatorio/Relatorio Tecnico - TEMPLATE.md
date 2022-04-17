@@ -63,7 +63,7 @@ Sistemas De Informação
 
 ## Problema
 
-Em nosso Design Thinking, realizamos o mapeamento da persona e do público alvo, o que nos auxiliou com nosso projeto. Procuramos resolver o problema dos estudantes, principalmente, em relação a ausência de plataformas online populares de conversão e ensino do mesmo no mercado, já que muitas vezes eles precisam visitar diversos sites para conseguir realizar diferentes conversões. Além disso, também nos focamos em melhorar a forma de ensino atual, para que seja mais objetiva e acolhedora, usando de videos curtos e objetivos, motivando o usuário a colocar em prática o conteúdo, já que atualmente as plataformas existentes não se preocupam em ensinar e motivar o estudante a aprender. 
+Em nosso Design Thinking, realizamos o mapeamento da persona e do público alvo, o que nos auxiliou com nosso projeto. Com isso, procuramos resolver o problema dos estudantes, principalmente, em relação a ausência de plataformas online populares de conversão e ensino do mesmo no mercado, já que muitas vezes eles precisam visitar diversos sites para conseguir realizar diferentes conversões. Além disso, também nos focamos em melhorar a forma de ensino atual, para que seja mais objetiva e acolhedora, usando de videos curtos e objetivos, motivando o usuário a colocar em prática o conteúdo, já que atualmente as plataformas existentes não se preocupam em ensinar e motivar o estudante a aprender. 
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -83,7 +83,7 @@ Em nosso Design Thinking, realizamos o mapeamento da persona e do público alvo,
 
 ## Objetivos
 
-A finalidade do nosso trabalho é ofertar ao público uma plataforma online, de fácil utilização e eficiente de conversão de diversas medidas, e que conte com uma função de “faça você mesmo”, como um tutorial, dando além da informação direta que o usuário deseja, a opção também de entender a conversão e aprender a fazê-la. Com isso, aprofundaremos nossa prática em proporcinar ao usuário diversas conversões em uma página da internet com video aulas disponíveis, para que eles possam aprender  e aprofundar seu conhecimento no assunto desejado.
+A finalidade do nosso trabalho é ofertar ao público uma plataforma online, de fácil utilização e eficiente de conversão de diversas medidas, e que conte com uma função de “faça você mesmo”, como um tutorial, dando além da informação direta que o usuário deseja, a opção também de entender a conversão e aprender a fazê-la. Com isso, aprofundaremos nossa prática em proporcinar ao usuário diversas conversões em uma página da internet com video aulas disponíveis, para que eles possam aprender e aprofundar seu conhecimento no assunto desejado.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -96,7 +96,7 @@ A finalidade do nosso trabalho é ofertar ao público uma plataforma online, de 
 
 ## Justificativa
 
-Por meio de entrevistas realizadas, nosso trabalho foi incentivado pela necessidade dos estudantes, em geral, de realizar conversões de diversas grandezas, e que possa ofertar em uma única plataforma, essas necessidades. Mas, mais que isso, possa proporcionar formas do estudante aprender a realizá-las, através de video aulas curtas e objetivas, que possam despertar a vontade de aprender e a utilizar as conversões no dia a dia. Nossa plataforma também se destina a pessoas que possam estar interesadas ou com alguma dúvida em relação a realização de conversões.
+Por meio de entrevistas realizadas, nosso trabalho foi incentivado pela necessidade dos estudantes, em geral, de realizar conversões de diversas grandezas, e que possa ofertar em uma única plataforma, essas necessidades. E, mais que isso, possa proporcionar formas do estudante aprender a realizá-las, através de video aulas curtas e objetivas, que possam despertar a vontade de aprender e a utilizar as conversões no dia a dia. Nossa plataforma também se destina a pessoas que possam estar interesadas ou com alguma dúvida em relação a realização de conversões.
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -156,7 +156,7 @@ Com a realização das entrevistas, foi constatado que quem faria mais uso de ta
 Nossa persona será o Sergio, um professor de matématica, de 35 anos, negro, que irá ajudar os usuários, alunos e pessoas que precisarem realizar alguma conversão, a realizar as conversões desejadas, e guia-lás pelo site, ensinando a usa-lo e a como converter as unidades desejadas. A aparência de nossa persona será como a imagem do Wireframe. Abaixo realizamos uma série de perguntas para mapearmos nossa persona: 
 
 • -No que trabalha: é professor
-> -Qual seu lazer preferido: ler livros e jogar xadrez
+• -Qual seu lazer preferido: ler livros e jogar xadrez
 • -O que faz nas horas livres: assiste documentários e estuda matemática e conversões
 • -Onde costuma comprar: livrarias
 • -Quais são as suas redes sociais preferidas: instagram e twitter
@@ -196,11 +196,11 @@ Nossa persona será o Sergio, um professor de matématica, de 35 anos, negro, qu
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
 
-## Histórias de Usuários .
+## Histórias de Usuários 
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `Professor de matématica`| QUERO/PRECISO ... `Realizar as conversões e ensinar os úsuarios a realizalás` |PARA ... `Mostrar os resultados e ensinar as pessoas a faze-las sozinha no futuro`                 |
+|EU COMO... `Professor de matématica`| QUERO/PRECISO ... `guiar os alunos na jornada da aprendizagem de conversões de grandezas` |PARA ... `ensinar as pessoas a fazer                                                                                                                                    as conversões para que no futuro,                                                                                                                               elas aprendam e saibam colocar em prática` |
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
@@ -216,7 +216,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
-## Requisitos .
+## Requisitos 
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
@@ -227,15 +227,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
-..................................................
+...............................................................................................................
 
-1- Deve converter medidas corretamente
-2-Ser capaz de identificar possíveis erros de digitação do usuário e sugerir uma correção
-3-Exibir uma página com o resultado e tutorial após a solicitação do usuário
-4-O personagem interativo Sérgio deve seguir um script dentro do contexto
-5-Precisa ter as fórmulas de conversão dentro dos dados
-6-Deve exibir o layout do site de acordo com o planejado
-7-Armazenar os dados de logins de cada usuário, para manter o histórico de buscas
+| 1 | Deve converter medidas corretamente                                                     | ALTA
+| 2 | Ser capaz de identificar possíveis erros de digitação do usuário e sugerir uma correção | MÉDIA
+| 3 | Exibir uma página com o resultado e tutorial após a solicitação do usuário              | ALTA
+| 4 | O personagem interativo Sérgio deve seguir um script dentro do contexto                 | ALTA
+| 5 | Precisa ter as fórmulas de conversão dentro dos dados                                   | ALTA
+| 6 | Deve exibir o layout do site de acordo com o planejado                                  | ALTA
+| 7 | Armazenar os dados de logins de cada usuário, para manter o histórico de buscas         | MÉDIA
 
 
 ### Requisitos não Funcionais
@@ -244,14 +244,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-...............................................
 
-1- Deve ser um sistema de confiablidade que preserve o usuário de quaisquer danos
-2-Precisa estar disponível na rede a qualquer momento para alcançar máximo de pessoas
-3- Deve ser um sistema ágil que atenda com rapidez a necessidade do usuário
-4- Deve ser uma plataforma de fácil uso do usuário
-5- Precisa ter o desempenho esperado
-6- Precisa ter segurança de dados como nome, endereço de e-mail e dados de pagamento de contas pró
+...............................................................................................................
+
+| 1 | Deve ser um sistema de confiablidade que preserve o usuário de quaisquer danos                 | ALTA
+| 2 | Precisa estar disponível na rede a qualquer momento para alcançar máximo de pessoas            | ALTA
+| 3 | Deve ser um sistema ágil que atenda com rapidez a necessidade do usuário                       | MÉDIA
+| 4 | Deve ser uma plataforma de fácil uso do usuário                                                | ALTA
+| 5 | Precisa ter o desempenho esperado                                                              | ALTA
+| 6 | Precisa ter segurança de dados como nome, endereço de e-mail                                   | MÉDIA 
 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
@@ -287,18 +288,17 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 Restrições do projeto:
 
-• -1- Atualização em tempo real do valor das moedas pelo mundo;
-• -2- Servidor que suporte um grande número de usuários;
-• -3- Entrega do Google no topo do resultado das pesquisas;
-• -4- Segurança de dados de todos os usuários;
-• -5- Produção de tutorias e inserção na plataforma para todas as
-conversões;
-• -6- Custos envolvidos;
-• -7- Escopo do projeto;
-• -8- Prazo acelerado que pode impactar nas entregas;
-• -9- Opiniões divergentes da equipe;
-• -10- Disponibilização de todas as ferramentas necessárias;
-• -11- Complexidade do algoritmo capaz de suprir as expectativas.
+| 1 | Atualização em tempo real do valor das moedas pelo mundo;               |
+| 2 | Servidor que suporte um grande número de usuários;                      |
+| 3 | Entrega do Google no topo do resultado das pesquisas;                   |
+| 4 | Segurança de dados de todos os usuários;                                |
+| 5 | Produção de tutorias e inserção na plataforma para todas as conversões; |
+| 6 | Custos envolvidos;                                                      |
+| 7 | Escopo do projeto;                                                      |
+| 8 | Prazo acelerado que pode impactar nas entregas;                         |
+| 9 | Opiniões divergentes da equipe ;                                        |
+| 10 | Disponibilização de todas as ferramentas necessárias;                  |
+| 11 | Complexidade do algoritmo capaz de suprir as expectativas.             |
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
@@ -311,7 +311,7 @@ conversões;
 
 # Projeto de Interface
 
-Nossas interfaces foram elaboradas para que fosse de forma simples, e acessivel a todos os usúarios, para que ele possa navegar rapidamente em todo o site, e que contasse com a ajuda de nossa persona, Sérgio. Todas os botões são intuitivos, quando o usuário clica em um botão, rapidamente é direcionado para a página desejada, como as páginas de conversões e outra página de tuturiais. Tudo foi planejado e elaborado de acordo com nosso wireframe e nosso user flow.
+Nossas interfaces foram elaboradas para que fosse de forma simples, e acessivel a todos os usúarios, para que ele possa navegar rapidamente em todo o site, e que contasse com a ajuda de nossa persona, Sérgio. Todas os botões são intuitivos, quando o usuário clica em um botão, rapidamente é direcionado para a página desejada, como as páginas de conversões e outra página de tuturiais, e outra de ajuda. Tudo foi planejado e elaborado de acordo com nosso wireframe e nosso user flow.
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
@@ -320,7 +320,7 @@ Nossas interfaces foram elaboradas para que fosse de forma simples, e acessivel 
 
 ## User Flow
 
-Nosso user flow foi feito para que fosse intuitivo e simples para o usuário. Primeiramente o cliente terá acesso a página inicial, que contém todas as conversões oferecidas pelo site, logo, dependendo do botão acionado, ele será redirecionado para uma página de video aulas, da conversão desejada ou de ajuda. Além disso, ele também pode realizar o cadastro no site, e se logar sempre que desejado.
+Nosso user flow foi feito para que fosse intuitivo e simples para o usuário. Primeiramente o cliente terá acesso a página inicial, que contém todas as conversões oferecidas pelo site, logo, dependendo do botão acionado, ele será redirecionado para uma página de video aulas, da conversão desejada ou de ajuda. Além disso, ele também pode realizar o cadastro no site, e se logar sempre que desejado. Porém, ele não necessita de realizar login para utlizar o site, o login apenas guardará seu historico de busca.
 
 [PdI_Converta_User_Flow (1).pdf](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Luizadesu/files/8500956/PdI_Converta_User_Flow.1.pdf)
 
@@ -341,7 +341,7 @@ Nosso user flow foi feito para que fosse intuitivo e simples para o usuário. Pr
 
 ## Wireframes
 
-Em nosso wireframe, configuramos a página de modo minimalista, para que fosse o mais intuitivo para o usuário. Também teremos nossa persona, Sérgio, para guiá-los pelo site.
+Em nosso wireframe, configuramos a página de modo minimalista, para que fosse o mais intuitivo para o usuário. Também teremos nossa persona, Sérgio, para guiá-los pelo site. Teremos uma página de conversões, de video aulas, de ajuda e de login.
 
 [Wireframe - Converta (2).pdf](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Luizadesu/files/8500954/Wireframe.-.Converta.2.pdf)
 
@@ -363,7 +363,7 @@ Em nosso wireframe, configuramos a página de modo minimalista, para que fosse o
 
 # Metodologia
 
-Fizemos nosso controle e divisão de tarefas pelo Trello, em que as tarefas vinculadas a algum membro do grupo específico foram indicadas no quadro. As tarefas sem pessoas específicas foram divididas para que depois fosse tudo inserido em uma única pasta. Além disso, também atribuimos datas as entregas, para que tudo fosse realizado dentro do prazo.
+Fizemos nosso controle e divisão de tarefas pelo Trello, em que as tarefas vinculadas a algum membro do grupo específico foram indicadas no quadro. As tarefas sem pessoas específicas foram divididas para que depois fosse tudo inserido em uma única pasta no Google Drive. Além disso, também atribuimos datas as entregas, para que tudo fosse realizado dentro do prazo.
 
 ![Painel Trello](https://user-images.githubusercontent.com/102929829/163699502-45797792-eafc-47e3-8237-df9e71b63a83.png)
 
@@ -444,7 +444,7 @@ A equipe foi organizada assim:
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nosso projeto foi realizado no Google Drive e, logo passada para o Github. Nossos comits foram realizados no próprio Github na branch padrão master, e nos issues, fizemos feature, já que inserimos por upload os links das imagens e pdf´s utilizados neste relatório. Não utilizamos totalmente o Git, pois ainda estamos estudando o Github e Git para conseguir utilizar totalmente as funções oferecidas pela plataforma.
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
 > versionamento escolhida. Exponha como a gerência de tags, merges,
