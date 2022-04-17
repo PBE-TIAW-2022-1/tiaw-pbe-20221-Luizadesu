@@ -119,8 +119,8 @@ Com a realização das entrevistas, foi constatado que quem faria mais uso de ta
 • Escolaridade: ensino fundamental, médio e graduando
 • Renda: entre 1 e 6 salários mínimos
 • Classe social: classe baixa e média
-• Localização: Brasil
-• Hábitos de consumo: médio e elevado
+• Localização: residentes em capitais e regiões metropolitanas
+• Hábitos de consumo: gostam de comprar pela internet 
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
