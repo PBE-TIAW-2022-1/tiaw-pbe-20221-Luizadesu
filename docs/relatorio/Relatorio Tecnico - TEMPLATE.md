@@ -409,7 +409,7 @@ A equipe foi organizada assim:
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Trello |  https://trello.com/b/PSC1p3Gf/controle-de-tarefas | 
 |Repositório de código        | GitHub | https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Luizadesu | 
-|Hospedagem do site           | Heroku |  https://XXXXXXX.herokuapp.com | 
+|Hospedagem do site           | Netlify |  https://polite-cassata-618e17.netlify.app/ | 
 |Protótipo Interativo         | Figma | https://www.figma.com/files/recent?fuid=1092972461408185905 | 
 
 >| Ambiente  | Plataforma              |Link de Acesso |
@@ -486,7 +486,16 @@ Nosso projeto foi realizado no Google Drive e, logo passada para o Github. Nosso
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para desenvolvimento das atividades do projeto, foram utilizadas as ferramentas: 
+Trello, para gestão e controle de tarefas do grupo;
+Visual Studio Code, para desenvolvimento backend e frontend dos códigos;
+Canva, para o processo de design thinking;
+Github, para controle e repositório de códigos 
+
+Nas sprints 2 e 3, cada membro do grupo publicou sua parte separada do código dos artefatos propostos, na plataforma github. Na sprint 4, houve a junção dos códigos, que também foram publicados na plataforma.
+
+No trabalho utilizamos as linguagens html, css, javascript. 
+
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
