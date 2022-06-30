@@ -371,7 +371,8 @@ Em nosso wireframe, configuramos a página de modo minimalista, para que fosse o
 
 Fizemos nosso controle e divisão de tarefas pelo Trello, em que as tarefas vinculadas a algum membro do grupo específico foram indicadas no quadro. As tarefas sem pessoas específicas foram divididas para que depois fosse tudo inserido em uma única pasta no Google Drive. Além disso, também atribuimos datas as entregas, para que tudo fosse realizado dentro do prazo.
 
-![Painel Trello](https://user-images.githubusercontent.com/102929829/163699502-45797792-eafc-47e3-8237-df9e71b63a83.png)
+![image](https://user-images.githubusercontent.com/102929829/176795749-9ff138bf-d4fb-4494-a12c-751d13b2088a.png)
+
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
@@ -488,7 +489,7 @@ Nosso projeto foi realizado no Google Drive e, logo passada para o Github. Nosso
 
 # Projeto da Solução
 
-https://polite-cassata-618e17.netlify.app/
+
 
 ## Tecnologias Utilizadas
 
@@ -534,7 +535,7 @@ Em nosso projeto, utlizamos o local Storage como banco de dados, pois ainda não
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para os testes, avaliamos o login, o cadastro, as páginas de avaliação e sugestão do site, a responsividade e as conversões. Inserimos em todos os teste a informação correta, e o sistema foi capaz de responder corretamente.
 
 > Apresente os cenários de testes utilizados na realização dos testes da
 > sua aplicação. Escolha cenários de testes que demonstrem os requisitos
@@ -579,7 +580,7 @@ Nesse cenário, testamos o login e cadastro, a persona como guia no site, págin
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Com a realização dos testes, constatamos que o sistema responde bem aos comandos, porém, há a falta de alguns recursos que não conseguimos implementar no projeto para o deixar mais completo. Um exemplo, é a implementação de conteúdo restrito ao login.
 
 > Discorra sobre os resultados do teste. Ressaltando pontos fortes e
 > fracos identificados na solução. Comente como o grupo pretende atacar
