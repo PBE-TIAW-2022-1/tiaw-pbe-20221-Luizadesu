@@ -482,7 +482,7 @@ Nosso projeto foi realizado no Google Drive e, logo passada para o Github. Nosso
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+https://polite-cassata-618e17.netlify.app/
 
 ## Tecnologias Utilizadas
 
@@ -512,7 +512,11 @@ No trabalho utilizamos as linguagens html, css, javascript.
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+Em nosso projeto, utlizamos o local Storage como banco de dados, pois ainda não conseguimos implementar o Json. Usamos também uma API de moedas para adicionar a conversão de moedas em tempo real para o site, que hospedamos na plataforma Netlify.
+
+![image](https://user-images.githubusercontent.com/102929829/176767955-d7fb0c6f-20aa-4d9b-a91a-4d064627ca9c.png)
+
+
 
 > Inclua um diagrama da solução e descreva os módulos e as tecnologias
 > que fazem parte da solução. Discorra sobre o diagrama.
