@@ -171,7 +171,13 @@ Nossa persona será o Sergio, um professor de matématica, de 35 anos, negro, qu
 • -Rodrigo Duarte (Desenvolvedor Front End) 
 • -Riquelme Oliveira (Designer)
 
-![Persona](https://user-images.githubusercontent.com/102929829/163699693-ad78170b-31d8-443a-96dd-9cae2c36a27a.png)
+![image](https://user-images.githubusercontent.com/102929829/176794619-8cfea4ae-cd7e-458c-80f1-48ea959ba4d3.png)
+
+
+![image](https://user-images.githubusercontent.com/102929829/176794534-9a5cb27c-e424-403e-8047-691cdc150174.png)
+
+![image](https://user-images.githubusercontent.com/102929829/176794663-65175a64-3c24-4b5a-81de-b1e19246e588.png)
+
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
 > você deve ser enumerar e descrever precisamente e de forma
@@ -588,6 +594,13 @@ https://mestresdaweb.com.br/fabrica-de-software/requisitos-funcionais-e-nao-func
 https://www.atlassian.com/br/agile/project-management/user-stories  Acesso em: 09 abr. 2022.
 
 VIDDIA. Como construir um mapa de empatia? 2018. Disponível em: https://viddia.com.br/como-construir-mapa-de-empatia/. Acesso em: 07 abr. 2022.
+
+https://trello.com/b/PSC1p3Gf/controle-de-tarefas, Acesso em 2022.
+
+https://maikon.biz/gerador-de-personas/, acesso em: 28 de jun. 2022
+
+https://marvelapp.com/projects/my, acesso em 30 de jun. 2022
+
 
 Guia do Scrum™ - Um guia definitivo para o Scrum: As regras do jogo - Desenvolvido e mantido por Ken Schwaber e Jeff Sutherland
 
