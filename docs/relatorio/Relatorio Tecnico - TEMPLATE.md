@@ -536,7 +536,20 @@ Em nosso projeto, utlizamos o local Storage como banco de dados, pois ainda não
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para a realização do teste de usabilidade, utilizamos as 10 técnicas de usabilidade heurística de Nielsen e Molich:
+
+1) Visibilidade do status do sistema; 
+2) Correspondência entre o sistema e o mundo real; 
+3) Liberdade e controle do usuário; 
+4) Consistência e padrões; 
+5) Prevenção de erros; 
+6) Reconhecer ao invés de lembrar; 
+7) Flexibilidade e eficiência; 
+8) Estética e design minimalista; 
+9) Auxiliar usuários a reconhecer, diagnosticar e recuperar erros; e 
+10) Ajuda e documentação. 
+
+Nesse cenário, testamos o login e cadastro, a persona como guia no site, página de ajuda e avalição e as conversões como resultados coerentes botões e links.
 
 > Enumere quais cenários de testes foram selecionados para teste. Neste
 > tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
