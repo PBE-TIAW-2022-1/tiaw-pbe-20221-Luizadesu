@@ -206,6 +206,10 @@ Nossa persona será o Sergio, um professor de matématica, de 35 anos, negro, qu
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
+![image](https://user-images.githubusercontent.com/102929829/176797517-4dc861af-a265-4496-a18b-9e90ccdb9145.png)
+
+
+
 |EU COMO... `Professor de matématica`| QUERO/PRECISO ... `guiar os alunos na jornada da aprendizagem de conversões de grandezas` |PARA ... `ensinar as pessoas a fazer                                                                                                                                    as conversões para que no futuro,                                                                                                                               elas aprendam e saibam colocar em prática` |
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
@@ -524,7 +528,6 @@ Em nosso projeto, utlizamos o local Storage como banco de dados, pois ainda não
 ![image](https://user-images.githubusercontent.com/102929829/176767955-d7fb0c6f-20aa-4d9b-a91a-4d064627ca9c.png)
 
 
-
 > Inclua um diagrama da solução e descreva os módulos e as tecnologias
 > que fazem parte da solução. Discorra sobre o diagrama.
 > 
@@ -535,7 +538,7 @@ Em nosso projeto, utlizamos o local Storage como banco de dados, pois ainda não
 
 # Avaliação da Aplicação
 
-Para os testes, avaliamos o login, o cadastro, as páginas de avaliação e sugestão do site, a responsividade e as conversões. Inserimos em todos os teste a informação correta, e o sistema foi capaz de responder corretamente.
+Para os testes, avaliamos o login, o cadastro, as páginas de avaliação e sugestão do site, a responsividade e as conversões. Inserimos em todos os teste a informação correta projetada para que o sistema aceite, e o sistema foi capaz de responder corretamente.
 
 > Apresente os cenários de testes utilizados na realização dos testes da
 > sua aplicação. Escolha cenários de testes que demonstrem os requisitos
@@ -556,7 +559,7 @@ Para a realização do teste de usabilidade, utilizamos as 10 técnicas de usabi
 9) Auxiliar usuários a reconhecer, diagnosticar e recuperar erros; e 
 10) Ajuda e documentação. 
 
-Nesse cenário, testamos o login e cadastro, a persona como guia no site, página de ajuda e avalição e as conversões como resultados coerentes botões e links.
+Nesse cenário, testamos o login e cadastro, a persona como guia no site, página de ajuda e avalição e as conversões como resultados coerentes botões e links. Os próprios membros do grupo realizaram os testes.
 
 > Enumere quais cenários de testes foram selecionados para teste. Neste
 > tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
@@ -580,7 +583,7 @@ Nesse cenário, testamos o login e cadastro, a persona como guia no site, págin
 
 ## Registros de Testes
 
-Com a realização dos testes, constatamos que o sistema responde bem aos comandos, porém, há a falta de alguns recursos que não conseguimos implementar no projeto para o deixar mais completo. Um exemplo, é a implementação de conteúdo restrito ao login.
+Com a realização dos testes, constatamos que o sistema responde bem aos comandos já idealizados e programados no projeto, porém, há a falta de alguns recursos que não conseguimos implementar no projeto para o deixar mais completo. Esses são, a implementação de conteúdo restrito ao login e a conversão de fuso horário.
 
 > Discorra sobre os resultados do teste. Ressaltando pontos fortes e
 > fracos identificados na solução. Comente como o grupo pretende atacar
